@@ -33,6 +33,20 @@ We utilize a unique monitoring mechanism to ensure continuous and efficient node
   <table>
     <tr>
       <td>
+         <img src="https://github.com/user-attachments/assets/d6775855-2ec0-4f11-a551-21b84002cab6" alt="Screenshot_3">
+      </td>
+      <td>
+          <h1><strong>Nubit</strong></h1>
+          <h5><a href="https://hammers.gitbook.io/hammers/actual/nubit">Hammers Gitbook Info</a></h5>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
          <img src="https://github.com/user-attachments/assets/bfe61e59-fe07-4569-a894-10b267914efe" alt="Screenshot_3">
       </td>
       <td>
