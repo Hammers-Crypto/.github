@@ -33,7 +33,35 @@ We utilize a unique monitoring mechanism to ensure continuous and efficient node
   <table>
     <tr>
       <td>
-         <img src="https://github.com/user-attachments/assets/d6775855-2ec0-4f11-a551-21b84002cab6" alt="Screenshot_3">
+         <img src="https://assets.nodes.guru/f7f55b06-0865-455e-bbc0-dbbfbc2d952a.svg" alt="Описание изображения" width="330" height="330">
+      </td>
+      <td>
+          <h1><strong>Source</strong></h1>
+          <h5><a href="https://hammers.gitbook.io/hammers/actual/source">Hammers Gitbook Info</a></h5>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+         <img src="https://seeklogo.com/images/I/iota-logo-DDFF9EC2AD-seeklogo.com.png" alt="Описание изображения" width="330" height="330">
+      </td>
+      <td>
+          <h1><strong>IOTA</strong></h1>
+          <h5><a href="https://hammers.gitbook.io/hammers/actual/iota">Hammers Gitbook Info</a></h5>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+         <img src="https://github.com/user-attachments/assets/d6775855-2ec0-4f11-a551-21b84002cab6" alt="Описание изображения" width="330" height="330">
       </td>
       <td>
           <h1><strong>Nubit</strong></h1>
@@ -47,7 +75,7 @@ We utilize a unique monitoring mechanism to ensure continuous and efficient node
   <table>
     <tr>
       <td>
-         <img src="https://github.com/user-attachments/assets/bfe61e59-fe07-4569-a894-10b267914efe" alt="Screenshot_3">
+        <img src="https://github.com/user-attachments/assets/bfe61e59-fe07-4569-a894-10b267914efe" alt="Описание изображения" width="330" height="330">
       </td>
       <td>
           <h1><strong>0G Labs</strong></h1>
@@ -61,7 +89,7 @@ We utilize a unique monitoring mechanism to ensure continuous and efficient node
   <table>
     <tr>
       <td>
-         <img src="https://github.com/user-attachments/assets/4aefd955-fd9b-448d-b9fe-d5a447833964" alt="Screenshot_3">
+        <img src="https://github.com/user-attachments/assets/4aefd955-fd9b-448d-b9fe-d5a447833964" alt="Описание изображения" width="330" height="330">
       </td>
       <td>
           <h1><strong>Berachain</strong></h1>
@@ -75,7 +103,7 @@ We utilize a unique monitoring mechanism to ensure continuous and efficient node
   <table>
     <tr>
       <td>
-         <img src="https://github.com/user-attachments/assets/78c666fd-888d-431f-a7af-e50ce658f8ff" alt="Screenshot_3">
+        <img src="https://github.com/user-attachments/assets/78c666fd-888d-431f-a7af-e50ce658f8ff" alt="Описание изображения" width="330" height="330">
       </td>
       <td>
           <h1><strong>Babylon</strong></h1>
